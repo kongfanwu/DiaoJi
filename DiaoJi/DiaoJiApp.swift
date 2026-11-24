@@ -15,3 +15,7 @@ struct DiaoJiApp: App {
         }
     }
 }
+
+#Preview {
+    ContentView()
+}
